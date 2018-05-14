@@ -1,0 +1,11 @@
+C:\Users\eduardol\Documents\Desenvolvimento\Eduardo\Core\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.deps.json
+C:\Users\eduardol\Documents\Desenvolvimento\Eduardo\Core\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.json
+C:\Users\eduardol\Documents\Desenvolvimento\Eduardo\Core\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.dev.json
+C:\Users\eduardol\Documents\Desenvolvimento\Eduardo\Core\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.dll
+C:\Users\eduardol\Documents\Desenvolvimento\Eduardo\Core\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.pdb
+C:\Users\eduardol\Documents\Desenvolvimento\Eduardo\Core\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csprojAssemblyReference.cache
+C:\Users\eduardol\Documents\Desenvolvimento\Eduardo\Core\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csproj.CoreCompileInputs.cache
+C:\Users\eduardol\Documents\Desenvolvimento\Eduardo\Core\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfoInputs.cache
+C:\Users\eduardol\Documents\Desenvolvimento\Eduardo\Core\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfo.cs
+C:\Users\eduardol\Documents\Desenvolvimento\Eduardo\Core\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.dll
+C:\Users\eduardol\Documents\Desenvolvimento\Eduardo\Core\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.pdb
