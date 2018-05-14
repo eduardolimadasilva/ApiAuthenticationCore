@@ -63,7 +63,7 @@ namespace TodoApi
                         paramsValidation.IssuerSigningKey = signingConfigurations.Key;
                         paramsValidation.ValidAudience = tokenConfigurations.Audience;
                         paramsValidation.ValidIssuer = tokenConfigurations.Issuer;
-
+                        
                         // Valida a assinatura de um token recebido
                         paramsValidation.ValidateIssuerSigningKey = true;
 
@@ -74,6 +74,10 @@ namespace TodoApi
                         // caso haja problemas de sincronismo de horário entre diferentes
                         // computadores envolvidos no processo de comunicação)
                         paramsValidation.ClockSkew = TimeSpan.Zero;
+
+
+                        // Salva login realizado com sucesso - NAO VI FUNCIONANDO
+                        //paramsValidation.SaveSigninToken = true;
                     });
 
 

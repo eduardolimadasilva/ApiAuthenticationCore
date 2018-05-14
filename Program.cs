@@ -20,6 +20,8 @@ namespace TodoApi
         public static IWebHost BuildWebHost(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseStartup<Startup>()
+                .CaptureStartupErrors(true)
+                .UseIISIntegration()
                 .Build();
     }
 }
